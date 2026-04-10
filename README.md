@@ -27,7 +27,7 @@ Install the dependencies using:
 
 ## Usage
 1. Clone the repository:
-2. git clone https://github.com/janbrekke/sonos-volume-controller.git
+2. git clone https://github.com/janbrekke/Ikea-Sonos-Volume-Control.git
 3. cd sonos-volume-controller
 4. Edit the script and set your speaker IP:
 speaker = SonosSpeaker("192.168.1.50")
