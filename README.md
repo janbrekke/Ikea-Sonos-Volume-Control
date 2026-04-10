@@ -44,6 +44,7 @@ python sonos-volume-controller.py
 * Rapid repeated calls to the speaker may cause the script to lag or stop responding. In other words; don't spam the buttons like a teenager in 2026 waiting for a Commodore64 tape player to finish loading the game.
 
 ## Future ideas
+* I am making a SoCo version too to make future versions easier to modify
 * Volume slider (Shouldn't be to hard)
 * Multi-speaker support (Can't be hard either)
 * Auto-discover Sonos devices on network (this would be handy)
