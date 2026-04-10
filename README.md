@@ -1,6 +1,9 @@
 # Ikea Sonos Volume Controller
 A simple Python script to control the volume of Sonos-based speakers (including IKEA Symfonisk) over the local network using their UPnP/SOAP API.
 
+## Screenshot
+![Alt text](https://www.digitalbrekke.com/res/sonospython.png "Connected to Book Shelf from IKEA")
+
 ## Features
 * View current volume
 * Increase / decrease volume by +5 or -5 (No slider yet maybe i'll add it later)
