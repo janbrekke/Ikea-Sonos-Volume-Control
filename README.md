@@ -46,4 +46,4 @@ python sonos-volume-controller.py
 * Auto-discover Sonos devices on network (this would be handy)
 * Home Assistant integration? Naah? Maybe? Dunno..
 
-### Have fun..
+# Have fun..
